@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on dappscan
 - 🌱 I’m currently learning Rust, Python, Go.
 - 👯 I’m looking to collaborate with researchers.
-- 🤔 I’m looking for help with fudning.
+- 🤔 I’m looking for help with funding.
 - 💬 Ask me about open source.
 - 📫 How to reach me: reddit
 - 😄 Pronouns: he/him/they
